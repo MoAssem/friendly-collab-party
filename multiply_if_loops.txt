@@ -8,7 +8,11 @@ for i = 1:10
   end
 end
 
+%dont forget to comment your lines
 bb = 1;
 if bb ==1
 aa
 end
+
+%deleted previous section
+
