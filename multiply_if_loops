@@ -1,9 +1,0 @@
-aa = 1;
-b = 2:20;
-x = 1;
- %loop starts
-for i = 1:10
-  if aa ==1
-   a = x*b(i)
-  end
-end
