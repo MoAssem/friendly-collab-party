@@ -7,3 +7,8 @@ for i = 1:10
    a = x*b(i)
   end
 end
+
+bb = 1;
+if bb ==1
+aa
+end
